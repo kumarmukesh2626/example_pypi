@@ -1,1 +1,4 @@
-# this is algo8 template for all projects
+# this is example demo project
+
+
+# steps to run this project
